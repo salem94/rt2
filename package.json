@@ -1,13 +1,13 @@
 {
   "name": "rt2",
   "version": "1.0.0",
-  "description": "Routes as data definition",
+  "description": "Http routing library.",
   "main": "rt2.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "vatza",
+  "author": "salem",
   "license": "ISC"
 }
